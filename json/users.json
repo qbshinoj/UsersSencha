@@ -1,0 +1,11 @@
+{
+	"users" :[{
+			"name" : "Ed",
+			"emails" : {"email1" : "ed@sencha.com", "email2" :"ed2@gmail.com"},
+			"position" : "Chennai"
+		}, {
+			"name" : "Tommy",
+			"emails" : {"email1" : "tommy@sencha.com", "email2" :"tommy8@gmail.com"},
+			"position" : "Mumbai"
+		}]
+}
